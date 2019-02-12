@@ -1,3 +1,0 @@
-Hi,
-
-This is new git file from devops engineer!.
