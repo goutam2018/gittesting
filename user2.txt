@@ -1,0 +1,3 @@
+Hi,
+
+This is new file created from Branch1 for testing purpose.
