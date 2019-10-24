@@ -11,5 +11,5 @@ elif [-d $file ]
 then 
 echo is a Directory !
 else
- echo file does not exit !
+ echo you have no such file !
 fi
